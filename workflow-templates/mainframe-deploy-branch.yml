@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Create deployment
         id: create_deployment
-        uses: pazaan/pr-comment-github-deployment@pazaan/fix-issue-1
+        uses: alexjurkiewicz/pr-comment-github-deployment@master
         with:
           trigger_phrase: "/deploy"
         env:
