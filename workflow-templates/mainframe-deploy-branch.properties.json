@@ -1,0 +1,8 @@
+{
+  "name": "Mainframe Deploy PR Workflow",
+  "description": "Deploys the code of a PR to an environment",
+  "iconName": "deploy-icon",
+  "categories": [
+    "Dockerfile"
+  ]
+}
